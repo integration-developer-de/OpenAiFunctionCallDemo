@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "FunctionCallDemo",
+      "request": "launch",
+      "mainClass": "FunctionCallDemo",
+      "projectName": "OpenAiFunctionCallDemo_edd1844a"
+    }
+  ]
+}
